@@ -1,4 +1,4 @@
-Lyrics Generation LLM
+# Lyrics Generation LLM
 This repository contains a PyTorch implementation of a Transformer-based model for generating lyrics. The model is trained on a dataset of Taylor Swift lyrics and "learns" (not all that well) to predict the next word in a sequence based on the provided context.
 
 # Overview
